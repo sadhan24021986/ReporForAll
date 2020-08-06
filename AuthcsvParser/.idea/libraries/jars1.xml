@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="jars1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-commons-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hsqldb-1.8.0-10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-commons-annotations-3.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-3.3-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/hibernate-validator-4.0.2.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/apache-ant-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jars/slf4j-log4j12-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
